@@ -44,4 +44,5 @@ Tweet 2 has length = 32. It is an invalid tweet.
 Select tweet_id from Tweets Where length(content) > 15;
 
 
+
 /* In MySQL length() function use & in MS Sql Server len() can b used 
